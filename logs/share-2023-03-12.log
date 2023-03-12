@@ -1,0 +1,20 @@
+[Info]2023/03/12 10:18:08 logger.go:34: http server started, listened on port 
+%!(EXTRA []interface {}=[8000])
+[Info]2023/03/12 10:18:15 logger.go:32: access /
+[Info]2023/03/12 10:19:18 logger.go:32: access /
+[Info]2023/03/12 10:21:27 logger.go:32: access /
+[Info]2023/03/12 10:22:14 logger.go:32: access /
+[Info]2023/03/12 10:22:29 logger.go:32: access /
+[Info]2023/03/12 10:22:33 logger.go:32: access /
+[Info]2023/03/12 10:22:36 logger.go:32: access /
+[Info]2023/03/12 10:22:51 logger.go:32: access /
+[Info]2023/03/12 14:55:50 logger.go:34: http server started, listened on port 
+%!(EXTRA []interface {}=[8000])
+[Info]2023/03/12 14:56:51 logger.go:32: access /
+[Info]2023/03/12 14:58:06 logger.go:32: access /
+[Info]2023/03/12 14:58:50 logger.go:32: access /
+[Info]2023/03/12 15:00:29 logger.go:32: access /
+[Info]2023/03/12 15:00:33 logger.go:32: access /
+[Info]2023/03/12 15:01:28 logger.go:32: access /
+[Info]2023/03/12 15:02:29 logger.go:32: access /
+[Info]2023/03/12 15:02:32 logger.go:32: access /
